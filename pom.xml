@@ -25,9 +25,9 @@
     <version>68</version>
   </parent>
 
-  <groupId>org.codehaus.mojo</groupId>
+  <groupId>com.corgibytes</groupId>
   <artifactId>mrm</artifactId>
-  <version>1.4.1-SNAPSHOT</version>
+  <version>1.4.1</version>
   <packaging>pom</packaging>
 
   <name>Mock Repository Manager :: Project</name>
@@ -73,18 +73,18 @@
   </modules>
 
   <scm>
-    <connection>scm:git:https://github.com/mojohaus/mrm.git</connection>
-    <developerConnection>scm:git:ssh://git@github.com/mojohaus/mrm.git</developerConnection>
-    <url>https://github.com/mojohaus/mrm/tree/master</url>
+    <connection>scm:git:https://github.com/corgibytes/mrm.git</connection>
+    <developerConnection>scm:git:ssh://git@github.com/corgibytes/mrm.git</developerConnection>
+    <url>https://github.com/corgibytes/mrm/tree/fork</url>
     <tag>HEAD</tag>
   </scm>
   <issueManagement>
     <system>GitHub</system>
-    <url>https://github.com/mojohaus/mrm/issues</url>
+    <url>https://github.com/corgibytes/mrm/issues</url>
   </issueManagement>
   <ciManagement>
     <system>GitHub</system>
-    <url>https://github.com/mojohaus/mrm/actions</url>
+    <url>https://github.com/corgibytes/mrm/actions</url>
   </ciManagement>
 
   <properties>
