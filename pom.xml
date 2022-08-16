@@ -111,11 +111,6 @@
 
   <repositories>
     <repository>
-      <id>ossrh-staging</id>
-      <name>ossrh-staging</name>
-      <url>https://s01.oss.sonatype.org/service/local/staging/deploy/maven2</url>
-    </repository>
-    <repository>
       <id>ossrh-snapshots</id>
       <layout>default</layout>
       <name>ossrh-snapshots</name>
