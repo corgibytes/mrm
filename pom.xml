@@ -27,7 +27,7 @@
 
   <groupId>com.corgibytes</groupId>
   <artifactId>mrm</artifactId>
-  <version>1.4.2-SNAPSHOT</version>
+  <version>1.4.2</version>
   <packaging>pom</packaging>
 
   <name>Mock Repository Manager :: Project</name>
@@ -76,7 +76,7 @@
     <connection>scm:git:https://github.com/corgibytes/mrm.git</connection>
     <developerConnection>scm:git:ssh://git@github.com/corgibytes/mrm.git</developerConnection>
     <url>https://github.com/corgibytes/mrm/tree/fork</url>
-    <tag>HEAD</tag>
+    <tag>mrm-1.4.2</tag>
   </scm>
   <issueManagement>
     <system>GitHub</system>
@@ -106,7 +106,7 @@
     <mavenVersion>2.2.1</mavenVersion>
     <mojo.java.target>1.8</mojo.java.target>
     <jetty.version>9.4.48.v20220622</jetty.version>
-    <project.build.outputTimestamp>2022-06-27T16:20:47Z</project.build.outputTimestamp>
+    <project.build.outputTimestamp>2022-08-16T19:36:03Z</project.build.outputTimestamp>
   </properties>
 
   <repositories>
